@@ -25,7 +25,7 @@ namespace NET_TRAINING.Process {
                 return !string.IsNullOrEmpty(_name) ? _name : "AN";
             }
             set {
-                if(string.IsNullOrEmpty(_name)) {
+                if(string.IsNullOrEmpty(value)) {
                     _name = "AN";
                 } else {
                     _name = value;
