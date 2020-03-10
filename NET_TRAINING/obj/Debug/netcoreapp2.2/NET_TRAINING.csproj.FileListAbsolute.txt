@@ -1,0 +1,11 @@
+/Volumes/DATA/DATA/GIT/PROJECT/net-trainning/NET_TRAINING/bin/Debug/netcoreapp2.2/NET_TRAINING.deps.json
+/Volumes/DATA/DATA/GIT/PROJECT/net-trainning/NET_TRAINING/bin/Debug/netcoreapp2.2/NET_TRAINING.runtimeconfig.json
+/Volumes/DATA/DATA/GIT/PROJECT/net-trainning/NET_TRAINING/bin/Debug/netcoreapp2.2/NET_TRAINING.runtimeconfig.dev.json
+/Volumes/DATA/DATA/GIT/PROJECT/net-trainning/NET_TRAINING/bin/Debug/netcoreapp2.2/NET_TRAINING.dll
+/Volumes/DATA/DATA/GIT/PROJECT/net-trainning/NET_TRAINING/bin/Debug/netcoreapp2.2/NET_TRAINING.pdb
+/Volumes/DATA/DATA/GIT/PROJECT/net-trainning/NET_TRAINING/obj/Debug/netcoreapp2.2/NET_TRAINING.csprojAssemblyReference.cache
+/Volumes/DATA/DATA/GIT/PROJECT/net-trainning/NET_TRAINING/obj/Debug/netcoreapp2.2/NET_TRAINING.csproj.CoreCompileInputs.cache
+/Volumes/DATA/DATA/GIT/PROJECT/net-trainning/NET_TRAINING/obj/Debug/netcoreapp2.2/NET_TRAINING.AssemblyInfoInputs.cache
+/Volumes/DATA/DATA/GIT/PROJECT/net-trainning/NET_TRAINING/obj/Debug/netcoreapp2.2/NET_TRAINING.AssemblyInfo.cs
+/Volumes/DATA/DATA/GIT/PROJECT/net-trainning/NET_TRAINING/obj/Debug/netcoreapp2.2/NET_TRAINING.dll
+/Volumes/DATA/DATA/GIT/PROJECT/net-trainning/NET_TRAINING/obj/Debug/netcoreapp2.2/NET_TRAINING.pdb
